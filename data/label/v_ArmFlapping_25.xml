@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<video id="v_ArmFlapping_01" keyword="10_yr_severe_autistic">
+   <url>http://www.youtube.com/watch?v=I7fdv1q9-m8</url>
+   <height>360</height>
+   <width>480</width>
+   <frames>1365</frames>
+   <persons>1</persons>
+   <duration>46s</duration>
+   <conversation>yes</conversation>
+   <behaviours count="5" id="b_Set_01">
+   	<behaviour id="b_01">		
+         <time>0036:0042</time>		
+         <bodypart>hand</bodypart>		
+         <category>armflapping</category>		
+         <intensity>high</intensity>		
+         <modality>video</modality>	
+      </behaviour>
+      <behaviour id="b_02">		
+         <time>0053:0058</time>		
+         <bodypart>hand</bodypart>		
+         <category>armflapping</category>		
+         <intensity>high</intensity>		
+         <modality>video</modality>	
+      </behaviour>
+      <behaviour id="b_03">		
+         <time>0103:0109</time>		
+         <bodypart>hand</bodypart>		
+         <category>armflapping</category>		
+         <intensity>high</intensity>		
+         <modality>video</modality>	
+      </behaviour>
+      <behaviour id="b_04">		
+         <time>0135:0140</time>		
+         <bodypart>hand</bodypart>		
+         <category>armflapping</category>		
+         <intensity>high</intensity>		
+         <modality>video</modality>	
+      </behaviour>
+      <behaviour id="b_05">		
+         <time>0214:0219</time>		
+         <bodypart>hand</bodypart>		
+         <category>armflapping</category>		
+         <intensity>high</intensity>		
+         <modality>video</modality>	
+      </behaviour>
+   </behaviours>
+</video>
