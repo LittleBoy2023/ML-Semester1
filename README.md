@@ -58,7 +58,7 @@ C:.
 * Category
 
 
-* ![data1](https://img.lu/upload/b99446e3fe4172864e799.png)
+![data1](https://img.lu/upload/b99446e3fe4172864e799.png)
 
 ## Model
 
