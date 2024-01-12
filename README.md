@@ -18,10 +18,6 @@ The aim is to support early and accurate ASD diagnosis. Through advanced video a
 - torch==2.1.2+cu121
 - torchvision==0.16.2+cu121
 
-## Model
-
-
-
 ## Structure
 
 ```sh
@@ -51,4 +47,24 @@ C:.
     └─pose_model_20240112-145836
             events.out.tfevents.1705042716.albyq.95204.0
 ```
+
+## Data analysis
+* Raw data
+![data1](https://img.lu/upload/43ae5e14b8c6541a99a73.png)
+* Segment
+![data1](https://img.lu/upload/5674f8993d74d5dbebed4.png)
+* Category
+![data1](https://img.lu/upload/b99446e3fe4172864e799.png)
+
+## Model
+
+### Structure
+
+![data1](https://img.lu/upload/62deb254ab45d56487dfb.png)
+
+### Result
+
+![data1](https://img.lu/upload/2ccb0edebc1d090885d96.png)
+
+![data1](https://img.lu/upload/e6cd5f76bba1f0d6a9eb9.png)
 
