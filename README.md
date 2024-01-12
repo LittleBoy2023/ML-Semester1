@@ -1,4 +1,4 @@
-# Photo_Net
+# Potato_Net
 
 ## Introduciton
 Autism spectrum disorders (ASD) comprise a range of neurodevelopmental disorders characterized by limitations in social interaction, communication, and repetitive behaviors. Repetitive hand motions are a common stimulus behavior for individuals with autism, serving as a nonverbal communication cue and self-regulatory mechanism.
