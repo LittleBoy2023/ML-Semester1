@@ -6,7 +6,7 @@ The project examined the signature hand movements of individuals with autism and
 The aim is to support early and accurate ASD diagnosis. Through advanced video analytics and pattern recognition techniques, we strive to contribute to a deeper understanding of ASD behavioral markers.
 
 
-## Requirement
+## Requirements
 
 - matplotlib==3.8.2
 - numpy==1.24.1
