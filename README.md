@@ -1,13 +1,10 @@
 # Photo_Net
 
 ## Introduciton
-
-```sh
-Autism spectrum disorders (ASD) comprise a range of neurodevelopmental disorders characterized by limitations in social interaction, communication, and repetitive behaviors. 
-Repetitive hand motions are a common stimulus behavior for individuals with autism, serving as a nonverbal communication cue and self-regulatory mechanism.
-The project examined the signature hand movements of individuals with autism and used machine learning algorithms focused on identifying three specific repetitive behaviors in children with autism: arm flapping, hand clapping, and finger rubbing. 
+Autism spectrum disorders (ASD) comprise a range of neurodevelopmental disorders characterized by limitations in social interaction, communication, and repetitive behaviors. Repetitive hand motions are a common stimulus behavior for individuals with autism, serving as a nonverbal communication cue and self-regulatory mechanism.
+The project examined the signature hand movements of individuals with autism and used machine learning algorithms focused on identifying three specific repetitive behaviors in children with autism: arm flapping, hand clapping, and finger rubbing.
 The aim is to support early and accurate ASD diagnosis. Through advanced video analytics and pattern recognition techniques, we strive to contribute to a deeper understanding of ASD behavioral markers.
-```
+
 
 ## Requirement
 
