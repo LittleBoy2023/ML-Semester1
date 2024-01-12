@@ -28,7 +28,6 @@ C:.
 │  ori_model.py
 │  potato_model.py
 │  README.md
-│  tree.txt
 │  vid2fram.py
 ├─data
 │  ├─label    
