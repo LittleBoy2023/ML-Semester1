@@ -1,14 +1,16 @@
 # Potato_Net
 
-![matplotlib](https://img.shields.io/badge/matplotlib-3.8.2-blue)
-![numpy](https://img.shields.io/badge/numpy-1.24.1-blue)
-![opencv-python](https://img.shields.io/badge/opencv--python-4.8.1.78-blue)
-![Pillow](https://img.shields.io/badge/Pillow-9.3.0-blue)
-![six](https://img.shields.io/badge/six-1.16.0-blue)
-![tensorboard](https://img.shields.io/badge/tensorboard-2.15.1-blue)
-![tensorboard-data-server](https://img.shields.io/badge/tensorboard--data--server-0.7.2-blue)
-![torch](https://img.shields.io/badge/torch-2.1.2+cu121-blue)
-![torchvision](https://img.shields.io/badge/torchvision-0.16.2+cu121-blue)
+![Python](https://img.shields.io/badge/language-Python-yellow)
+![matplotlib](https://img.shields.io/badge/matplotlib-3.8.2-orange)
+![numpy](https://img.shields.io/badge/numpy-1.24.1-green)
+![opencv-python](https://img.shields.io/badge/opencv--python-4.8.1.78-red)
+![Pillow](https://img.shields.io/badge/Pillow-9.3.0-purple)
+![six](https://img.shields.io/badge/six-1.16.0-blueviolet)
+![tensorboard](https://img.shields.io/badge/tensorboard-2.15.1-critical)
+![tensorboard-data-server](https://img.shields.io/badge/tensorboard--data--server-0.7.2-important)
+![torch](https://img.shields.io/badge/torch-2.1.2+cu121-informational)
+![torchvision](https://img.shields.io/badge/torchvision-0.16.2+cu121-success)
+
  
 ## Introduciton
 Autism spectrum disorders (ASD) comprise a range of neurodevelopmental disorders characterized by limitations in social interaction, communication, and repetitive behaviors. Repetitive hand motions are a common stimulus behavior for individuals with autism, serving as a nonverbal communication cue and self-regulatory mechanism.
