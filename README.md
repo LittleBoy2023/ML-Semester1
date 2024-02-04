@@ -60,13 +60,13 @@ C:.
 ```
 
 ## Data analysis
-* Raw data
+### Raw data
 ![data1](https://img.lu/upload/43ae5e14b8c6541a99a73.png)
-* Segment
+### Segment
 
 
 ![data1](https://img.lu/upload/5674f8993d74d5dbebed4.png)
-* Category
+### Category
 
 
 ![data1](https://img.lu/upload/b99446e3fe4172864e799.png)
